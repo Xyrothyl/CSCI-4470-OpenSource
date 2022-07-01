@@ -21,10 +21,28 @@ Kernel Compilation
 | Program | Minimal version | Purpose |
 |:------:|:-------:|:------:|
 | GNU C | 5.1 | compiler |
-|:------:|:-------:|:------:|
-| Make | 3.81 | build tool|
+| Make | 3.81 | build |
 | Bash | 4.2 | scripts |
+| Binutils | 2.23 | build  |
+| pkg-config | 4.18 | used for configuration |
+| Flex | 2.5.35 | lexical analysis | 
+| Bison 2.0 | parsers for build |
+| Perl | 5 | build  |
+| BC | - | build  |
+| OpenSSL | - | keys |
 
+System Utilities
+| Program | Minimal version | Purpose |
+|:------:|:-------:|:------:|
+| Ksysmoops | - | oops |
+| Mkinitrd | - | for `/lib/modules` file tree |
+| JFSutils | 1.1.3 | file system utilites |
+| Xfsprogs | 2.6.0 | XFS utilites |
+
+Kernel Documentation
+| Program | Minimal version | Purpose |
+|:------:|:-------:|:------:|
+| Sphinx | 1.7 | documentation |
 
 Team
 ----
