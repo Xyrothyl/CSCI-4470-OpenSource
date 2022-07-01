@@ -11,10 +11,19 @@ As a titan of open source itself, Linux will continue to grow and develop regard
 
 Semester Plan
 -------------
-It seems difficult to have a patch accepted in the timeframe we have so my plan should at least try to incorporate tasks throughout the canonical workflow. Aside from the coding itself, I mean to set up and tune the development environment for the kernel, as the toolchain is important in maintaining the codebase at scale.
+It seems difficult to have a patch accepted in the timeframe we have so my plan should at least try to incorporate tasks throughout the canonical workflow. Aside from the coding itself, I mean to set up and tune the development environment for the kernel, as the toolchain is important in maintaining the codebase at scale. The other area for me to explore is the community itself with a goal of actually interacting with its members.
 
 Technology
 ----------
+The main language used is C. Other tools used in development and building include the table below.
+
+Kernel Compilation
+| Program | Minimal version | Purpose |
+|:------:|:-------:|:------:|
+| GNU C | 5.1 | compiler |
+|:------:|:-------:|:------:|
+| Make | 3.81 | build tool|
+| Bash | 4.2 | scripts |
 
 
 Team
