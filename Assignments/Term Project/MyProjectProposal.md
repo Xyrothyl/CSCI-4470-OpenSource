@@ -12,11 +12,12 @@ As a titan of open source itself, Linux will continue to grow and develop regard
 
 Semester Plan
 -------------
-It seems difficult to have a patch accepted in the timeframe we have so my plan should at least try to incorporate tasks throughout the canonical workflow. Aside from the coding itself, I mean to set up and tune the development environment for the kernel, as the toolchain is important in maintaining the codebase at scale. The other area for me to explore is the community itself with a goal of actually interacting with its members.
+It seems difficult to have a patch accepted in the timeframe we have so my plan should at least try to incorporate tasks throughout the canonical workflow. Aside from the coding itself, I mean to set up and tune the development environment for the kernel, as the toolchain is important in maintaining the codebase at scale.
+
+A (seemingly) endlessly available task that will be involved is research, especially introductory information. Fortunately, there are a variety of such sources available online; this [tutorial](https://kernelnewbies.org/FirstKernelPatch) offers much guidance in the initial setup. The other area for me to explore is the community itself with a goal of productively engaging with its members.
 
 Technology
 ----------
-The main language used is C. Other tools used in development and building include the table below.
 
 Kernel Compilation
 | Program | Minimal version | Purpose |
@@ -27,15 +28,13 @@ Kernel Compilation
 | Binutils | 2.23 | build  |
 | pkg-config | 4.18 | used for configuration |
 | Flex | 2.5.35 | lexical analysis | 
-| Bison 2.0 | parsers for build |
+| Bison | 2.0 | parsers for build |
 | Perl | 5 | build  |
-| BC | - | build  |
 | OpenSSL | - | keys |
 
 System Utilities
 | Program | Minimal version | Purpose |
 |:------:|:-------:|:------:|
-| Ksysmoops | - | oops |
 | Mkinitrd | - | for `/lib/modules` file tree |
 | JFSutils | 1.1.3 | file system utilites |
 | Xfsprogs | 2.6.0 | XFS utilites |
@@ -55,8 +54,7 @@ Milestones
 ----------
 Milestones are given as weeks from project start:
 
-- By Week 1 : Investigate the **Unknown** language options and choose one best suited to encapsulate what we don't know.
-- By Week 4 : Obtain unknown information on 6 things that 6 random strangers don't know.
-- By Week 7 : Have the informaton from the last stranger. We assume that strangers who don't know things will become harder to find once more people know what we are doing.
-- By Week 9: Have the seven unknowns coded into the chosen (unknown) language.
-- By Week 10 : Completely develop the website that uses deep learning and artificial intelligence to source a cooperative crowd, decide what they don't know and automatically encode it into the chosen language. 
+- By Week 1 : Have dev environment and kernel build set up; read the community and contribution guidelines
+- By Week 2 : Know what issue to focus on
+- By Week 4 : Have majority of functional work done
+- By Week 6 : Be in discourse with manager(s) regarding patch
