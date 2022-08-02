@@ -12,13 +12,23 @@ This is a draft schedule for this course -
 
 * Friday 06/10/2022 - [Lab: Community](../Modules/03.DocumentationAndCommunity/Lab-DocumentationAndCommunity.md)
 
-* Tuesday 06/14/2022 - [Lecture: Build Systems](../Modules/05.BuildSystems/BuildSystems.pdf) **Moved from week 5 due to scheduling issue** 
+<!-- Normal schedule, changed due to Prof. Turner not being available on 06/24
+* Tuesday 06/14/2022 - [Lecture: Understanding Open Source](../Modules/04.Licensing/Licensing-S2017-RPI-PatrickMasson.pdf)
 
-* Friday 06/17/2022 - [Lab: Build Systems](../Modules/05.BuildSystems/Lab-BuildSystems.md)  **Moved from week 5 due to scheduling issue** 
+* Friday 06/17/2022 - [Lab: Licensing](../Modules/04.Licensing/Lab-Licensing.md)
 
-* Tuesday 06/21/2022 - [Lecture: Understanding Open Source](../Modules/04.Licensing/Licensing-S2017-RPI-PatrickMasson.pdf) **Moved from week 4 due to scheduling issue** 
+* Tuesday 06/21/2022 - [Lecture: Build Systems](../Modules/05.BuildSystems/BuildSystems.pdf)
 
-* Friday 06/24/2022 - [Lab: Licensing](../Modules/04.Licensing/Lab-Licensing.md) **Moved from week 4 due to scheduling issue** 
+* Friday 06/24/2022 - [Lab: Build Systems](../Modules/05.BuildSystems/Lab-BuildSystems.md)
+-->
+
+* Tuesday 06/14/2022 - [Lecture: Build Systems](../Modules/05.BuildSystems/BuildSystems.pdf)
+
+* Friday 06/17/2022 - [Lab: Build Systems](../Modules/05.BuildSystems/Lab-BuildSystems.md)
+
+* Tuesday 06/21/2022 - [Lecture: Understanding Open Source](../Modules/04.Licensing/Licensing-S2017-RPI-PatrickMasson.pdf)
+
+* Friday 06/24/2022 - [Lab: Licensing](../Modules/04.Licensing/Lab-Licensing.md)
 
 	**Analysis of an Open Source Project Due**
 
@@ -74,6 +84,11 @@ or -->
         - [Additional Details](https://snyk.io/blog/open-source-npm-packages-colors-faker/)
     - Node IPC
         -  [Summary](https://thehackernews.com/2022/03/popular-npm-package-updated-to-wipe.html)
+     - GitHub Copilot
+        - [Software Freedom Conservancy](https://sfconservancy.org/blog/2022/feb/03/github-copilot-copyleft-gpl/)
+        - [OSI](https://docs.google.com/document/d/1_5CKLbzjXkHDpVLepOAmdAmDL9Gh6vbI_zAn6ihv_AU/edit?usp=sharing)
+        - [ZDNet](https://docs.google.com/document/d/1_5CKLbzjXkHDpVLepOAmdAmDL9Gh6vbI_zAn6ihv_AU/edit?usp=sharing)
+        - [Deep Dive AI](https://deepdive.opensource.org/)
 
 * Tuesday 8/16/2022 - Project Reports
 
@@ -81,3 +96,4 @@ or -->
  
 * Tuesday 8/19/2022 - **No Class**
  
+
